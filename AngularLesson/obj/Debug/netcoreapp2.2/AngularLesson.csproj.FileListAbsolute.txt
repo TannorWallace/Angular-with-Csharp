@@ -1,0 +1,14 @@
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\bin\Debug\netcoreapp2.2\AngularLesson.deps.json
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\bin\Debug\netcoreapp2.2\AngularLesson.runtimeconfig.json
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\bin\Debug\netcoreapp2.2\AngularLesson.runtimeconfig.dev.json
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\bin\Debug\netcoreapp2.2\AngularLesson.dll
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\bin\Debug\netcoreapp2.2\AngularLesson.pdb
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.csprojAssemblyReference.cache
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.csproj.CoreCompileInputs.cache
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.RazorAssemblyInfo.cache
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.RazorAssemblyInfo.cs
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.AssemblyInfoInputs.cache
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.AssemblyInfo.cs
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.RazorTargetAssemblyInfo.cache
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.dll
+C:\source\On_My_Own\Angular_practice\my-app\AngularLesson\obj\Debug\netcoreapp2.2\AngularLesson.pdb
